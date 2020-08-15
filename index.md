@@ -12,97 +12,53 @@ layout: default
 
 ![Skills](https://raw.githubusercontent.com/aanbuvenkatesh/aanbuvenkatesh.github.io/master/resources/skills.png)
 
-### Header 3
+# Experience
+### Temenos India Private Limited [Jan 2016 - Present]
+#### Senior Software Engineer [July 2019 – Present]
+* Worked in a product development sector and involved in the development and defect fixing to bring out a quality microservices product for enhancing digital banking to the customers.
+* Developed microservices based on both NoSQL (Mongo, and Dynamo DB) and SQL (MySQL) database using appropriate design patterns.
+* Had exposure on developing high-performance distributed cloud Native system (AWS and Azure - Serverless deployment with Lambdas and Azure Functions) and on-premise deployment using Docker and J2EE.
+* Used REST and event driven approach (Kafka and Kinesis) to develop the microservices in different stacks.
+#### Software Engineer [Jan 2016 – July 2019]
+* Involved in the development and support (analysis and defect fixing) for products in core banking system. Exposure on core banking modules such as accounts, reporting, cash pooling, retail sweeping, payments IBAN, Lending etc...,
+* Fixed Critical Client bugs that span across different modules in core banking including Finance Crime Mitigation.
+* Analysed and fixed issues, that causes financial impact during high volume transaction processing.
+* Involved in critical client upgrades and supported for go-live and post go-live issues.
+* Proven ability to develop utilities that proactively monitors and detects issues or financial impacts, even before the customer reaches out to the bank.
 
-```js
-Java
-```
+# Education
+### Bachelor of Engineering (B.E.) [2011 – 2015]
+Electronics and Communications Engineering – First Class (8.2 CGPA);
+Park College of Engineering and Technology, Coimbatore. (Affiliated to Anna University, Chennai)
+### Higher Secondary [2009 – 2011]
+Physics, Chemistry, Maths, Computer Science – Distinction (94%);
+Saratha Higher Secondary School, Gobichettipalayam, Erode.
 
-```ruby
-Microservices
-```
+# Projects
+### Chaabi Bank, France [Feb 2019]
+Onsite support for critical issues in core modules (Arrangement Architecture, Finance Crime Mitigation and Standing Orders)
+### Commercial International Bank, Egypt [Aug 2018 – Oct 2018]
+Onsite premium FLS support for Core banking system (Temenos Transact) and local development.
+### Swazi Bank, Swaziland [Mar 2018 – May 2018]
+Onsite support to resolve partial updates and GL in the banking system
+### NBS Bank, Malawi [Feb 2018]
+Onsite support for critical bug fixes in local development issues
 
-#### Header 4
+# Rewards and Recognition
+* GEM (Going Extra Mile) Award [Jul 2020 - Temenos]
+TENACITY - Is an innovator and pioneer who disrupts the status quo; Is driven and hates to lose, so he/she never gives up; Puts Temenos first to achieve great things.
+Played crucial role in the development of Origination micro services. Never gives up or compromises with the quality of the product. A positive attitude towards all the changes that comes by his way and does not cherry pick the tasks and motivates team to do so. Lending hands to the team when they need and boosting them to stick to timelines.
+* Consistent Performer [Jul 2018 - Temenos]
+Awarded and Recognised with the highest compensation for consistent performance consecutively for two years being a fresher. Received appreciation from many clients for the work carried out during that period.
+* Naukri Student Ambassador [2014]
+Selected as the Student Ambassador by Naukri and engaged in Campus Connect Programmes.
+* HEP'13 - Attempt to Guinness records Event [Jul 2013]
+A largest gathering by college students at Coimbatore, for creating awareness against Hepatitis B virus.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Publications
+* “An efficient retinal art for blind people” - IEEE Podhigai
+The aim of this project is to make the visually impaired people to see by creating a low-cost device. The device uses a specialized software where the adjustments in the images captured from the webcam are made and is then sent to the viewer array placed on the tongue. The signals in the viewer array are coupled to the tongue by which visually impaired person can have a real time access to the external environment.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Skills](https://raw.githubusercontent.com/aanbuvenkatesh/aanbuvenkatesh.github.io/master/resources/skills.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Certifications
+* Temenos Certified Professional – Transact Gold Certification
+* Temenos Certified Quantum developer – Infinity Certification
