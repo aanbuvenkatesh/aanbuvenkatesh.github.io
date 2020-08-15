@@ -8,11 +8,9 @@ layout: default
 * Extensive expertise in microservice architecture development using REST and event driven methodology, across various cloud platform and for on-premise.
 * Ability to meet deadlines and manage multiple tasks, decisive with strong leadership qualities, flexible in work schedules and possess good communication skills.
 
-## Header 2
+# Skills
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+![Skills](https://raw.githubusercontent.com/aanbuvenkatesh/aanbuvenkatesh.github.io/master/resources/skills.png)
 
 ### Header 3
 
@@ -81,7 +79,7 @@ Microservices
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Skills](https://raw.githubusercontent.com/aanbuvenkatesh/aanbuvenkatesh.github.io/master/resources/skills.png)
 
 ### Large image
 
