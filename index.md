@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Profile
-* 4.5 years of experience in developing and maintaining products for banking sector. Demonstrated the ability to analyse critical client defects that span across multiple modules.
+* 5 years of experience in developing and maintaining products for banking sector. Demonstrated the ability to analyse critical client defects that span across multiple modules.
 * Proven ability to leverage full-stack knowledge and experience to build high performant distributed system that can scale.
 * Extensive expertise in **microservice architecture development using REST and event driven methodology**, across various cloud platform and for on-premise.
 * Ability to meet deadlines and manage multiple tasks, decisive with strong leadership qualities, flexible in work schedules and possess good communication skills.
@@ -61,5 +61,6 @@ A largest gathering by college students at Coimbatore, for creating awareness ag
 The aim of this project is to make the **visually impaired people** to see by creating a low-cost device. The device uses a specialized software where the adjustments in the images captured from the webcam are made and is then sent to the **viewer array placed on the tongue**. The signals in the viewer array are coupled to the tongue by which visually impaired person can have a real time access to the external environment.
 
 # Certifications
+* [M001: MongoDB Basics](https://university.mongodb.com/course_completion/9f4bcc8c-ed28-4343-b16c-a85d1399d3e7)
 * Temenos Certified Professional – Transact Gold Certification
 * Temenos Certified Quantum developer – Infinity Certification
