@@ -35,7 +35,7 @@ Park College of Engineering and Technology, Coimbatore. (Affiliated to Anna Univ
 Physics, Chemistry, Maths, Computer Science – Distinction (94%);
 Saratha Higher Secondary School, Gobichettipalayam, Erode.
 
-# Projects
+# Client Projects
 #### Chaabi Bank, France [Feb 2019]
 Onsite support for critical issues in core modules (Arrangement Architecture, Finance Crime Mitigation and Standing Orders)
 #### Commercial International Bank, Egypt [Aug 2018 – Oct 2018]
@@ -57,7 +57,7 @@ Selected as the Student Ambassador by Naukri and engaged in Campus Connect Progr
 A largest gathering by college students at Coimbatore, for creating awareness against **Hepatitis B virus**.
 
 # Publications
-#### “An efficient retinal art for blind people” - IEEE Podhigai
+#### “An efficient retinal art for blind people” - [IEEE Podhigai](https://ieeexplore.ieee.org/document/7238478)
 The aim of this project is to make the **visually impaired people** to see by creating a low-cost device. The device uses a specialized software where the adjustments in the images captured from the webcam are made and is then sent to the **viewer array placed on the tongue**. The signals in the viewer array are coupled to the tongue by which visually impaired person can have a real time access to the external environment.
 
 # Certifications
