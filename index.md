@@ -15,9 +15,9 @@ layout: default
 # Experience
 ### Trimble Information Technologies India Private Limited [Mar 2021 - Present]
 #### Software Engineer (P2) [Mar 2021 – Present]
-* Involved in the development of reactive microservices for entitlement management system using vert.x and RxJava using onion architecture.
+* Involved in the development of **reactive microservices** for entitlement management system using **vert.x and RxJava using onion architecture**.
 * Automated the build and deployment of microservices using Jenkins and AWS CLI.
-* Involved in development of next gen services (digital transformation journey of Trimble) using Function as a Service model (FaaS) with Python 3.8 Runtime. Experience in deployment of services using cloud formation template.
+* Involved in development of next gen services (digital transformation journey of Trimble) using **Function as a Service model (FaaS) with Python 3.8 Runtime**. Experience in deployment of services using cloud formation template.
 * Developed microservices by leveraging various AWS Managed Services.
 
 ### Temenos India Private Limited [Jan 2016 - Feb 2021]
@@ -54,11 +54,11 @@ Onsite support for critical bug fixes in local development issues
 
 # Rewards and Recognition
 #### Trimble Bravo [Jul 2021 - Trimble]
-For taking complete responsibility and ownership in integration of entitlement system with event services.
-Trimble Values: #inspire, #engage and #achieve
+For taking complete responsibility and ownership in integration of entitlement system with event services.\
+Trimble Values: #inspire, #engage and #achieve\
 Thank you for taking up responsibility in EMS Events service integration. I see that you have written good code and have thought of the process from top to bottom. Please keep up the good work.
 #### GEM (Going Extra Mile) Award [Jul 2020 - Temenos]
-**TENACITY** - Is an innovator and pioneer who disrupts the status quo; Is driven and hates to lose, so he/she never gives up; Puts Temenos first to achieve great things.
+**TENACITY** - Is an innovator and pioneer who disrupts the status quo; Is driven and hates to lose, so he/she never gives up; Puts Temenos first to achieve great things.\
 Played crucial role in the development of Origination micro services. Never gives up or compromises with the quality of the product. A positive attitude towards all the changes that comes by his way and does not cherry pick the tasks and motivates team to do so. Lending hands to the team when they need and boosting them to stick to timelines.
 #### Consistent Performer [Jul 2018 - Temenos]
 Awarded and Recognised with the highest compensation for **consistent performance consecutively for two years** being a fresher. Received appreciation from many clients for the work carried out during that period.
