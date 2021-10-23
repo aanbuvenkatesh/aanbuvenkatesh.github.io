@@ -3,18 +3,25 @@ layout: default
 ---
 
 # Profile
-* 5 years of experience in developing and maintaining products for banking sector. Demonstrated the ability to analyse critical client defects that span across multiple modules.
+* 6 years of experience in developing and maintaining products for banking/ecommerce sector. Demonstrated the ability to analyse critical client defects that span across multiple modules.
 * Proven ability to leverage full-stack knowledge and experience to build high performant distributed system that can scale.
 * Extensive expertise in **microservice architecture development using REST and event driven methodology**, across various cloud platform and for on-premise.
 * Ability to meet deadlines and manage multiple tasks, decisive with strong leadership qualities, flexible in work schedules and possess good communication skills.
 
 # Skills
 
-![Skills](https://raw.githubusercontent.com/aanbuvenkatesh/aanbuvenkatesh.github.io/master/resources/skills.png)
+![Skills](https://raw.githubusercontent.com/aanbuvenkatesh/aanbuvenkatesh.github.io/master/resources/skills_20211023.png)
 
 # Experience
-### Temenos India Private Limited [Jan 2016 - Present]
-#### Senior Software Engineer [July 2019 – Present]
+### Trimble Information Technologies India Private Limited [Mar 2021 - Present]
+#### Software Engineer (P2) [Mar 2021 – Present]
+* Involved in the development of reactive microservices for entitlement management system using vert.x and RxJava using onion architecture.
+* Automated the build and deployment of microservices using Jenkins and AWS CLI.
+* Involved in development of next gen services (digital transformation journey of Trimble) using Function as a Service model (FaaS) with Python 3.8 Runtime. Experience in deployment of services using cloud formation template.
+* Developed microservices by leveraging various AWS Managed Services.
+
+### Temenos India Private Limited [Jan 2016 - Feb 2021]
+#### Senior Software Engineer [July 2019 – Feb 2021]
 * Worked in a product development sector and involved in the development and defect fixing to bring out a quality microservices product for enhancing digital banking to the customers.
 * Developed microservices based on both **NoSQL (Mongo, and Dynamo DB) and SQL (MySQL) database** using appropriate design patterns.
 * Had exposure on developing high-performance distributed cloud Native system (AWS and Azure - **Serverless deployment** with Lambdas and Azure Functions) and on-premise deployment using Docker and J2EE.
@@ -46,6 +53,10 @@ Onsite support to resolve partial updates and GL in the banking system
 Onsite support for critical bug fixes in local development issues
 
 # Rewards and Recognition
+#### Trimble Bravo [Jul 2021 - Trimble]
+For taking complete responsibility and ownership in integration of entitlement system with event services.
+Trimble Values: #inspire, #engage and #achieve
+Thank you for taking up responsibility in EMS Events service integration. I see that you have written good code and have thought of the process from top to bottom. Please keep up the good work.
 #### GEM (Going Extra Mile) Award [Jul 2020 - Temenos]
 **TENACITY** - Is an innovator and pioneer who disrupts the status quo; Is driven and hates to lose, so he/she never gives up; Puts Temenos first to achieve great things.
 Played crucial role in the development of Origination micro services. Never gives up or compromises with the quality of the product. A positive attitude towards all the changes that comes by his way and does not cherry pick the tasks and motivates team to do so. Lending hands to the team when they need and boosting them to stick to timelines.
@@ -62,5 +73,4 @@ The aim of this project is to make the **visually impaired people** to see by cr
 
 # Certifications
 * [M001: MongoDB Basics](https://university.mongodb.com/course_completion/9f4bcc8c-ed28-4343-b16c-a85d1399d3e7)
-* Temenos Certified Professional – Transact Gold Certification
-* Temenos Certified Quantum developer – Infinity Certification
+* [Hacker Rank - Java / Python](https://www.hackerrank.com/Anbuvenkatesh)
