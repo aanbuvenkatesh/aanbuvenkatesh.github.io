@@ -491,6 +491,75 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     `;
     document.head.appendChild(style);
+
+    // Achievements Pagination
+    const achievementsGrid = document.getElementById('achievements-grid');
+    const dotsContainer = document.getElementById('achievements-pagination-dots');
+    if (achievementsGrid && dotsContainer) {
+        const allCards = Array.from(achievementsGrid.querySelectorAll('.achievement-card'));
+        const pageSize = 6;
+        const pageCount = Math.ceil(allCards.length / pageSize);
+        let currentPage = 0;
+        let autoAdvanceTimer = null;
+
+        // Create dots
+        function renderDots() {
+            dotsContainer.innerHTML = '';
+            for (let i = 0; i < pageCount; i++) {
+                const dot = document.createElement('button');
+                dot.className = 'achievements-pagination-dot' + (i === currentPage ? ' active' : '');
+                dot.setAttribute('aria-label', `Go to page ${i+1}`);
+                dot.addEventListener('click', () => goToPage(i));
+                dotsContainer.appendChild(dot);
+            }
+        }
+
+        // Show cards for current page
+        function renderPage(page, animate = true) {
+            if (animate) {
+                achievementsGrid.classList.remove('paging-in');
+                achievementsGrid.classList.add('paging-out');
+                setTimeout(() => {
+                    showPage(page);
+                    achievementsGrid.classList.remove('paging-out');
+                    achievementsGrid.classList.add('paging-in');
+                }, 350);
+            } else {
+                showPage(page);
+                achievementsGrid.classList.add('paging-in');
+            }
+        }
+
+        function showPage(page) {
+            achievementsGrid.innerHTML = '';
+            const start = page * pageSize;
+            const end = start + pageSize;
+            allCards.slice(start, end).forEach(card => achievementsGrid.appendChild(card));
+            renderDots();
+        }
+
+        function goToPage(page) {
+            if (page === currentPage) return;
+            currentPage = page;
+            renderPage(currentPage);
+            resetAutoAdvance();
+        }
+
+        function nextPage() {
+            currentPage = (currentPage + 1) % pageCount;
+            renderPage(currentPage);
+            resetAutoAdvance();
+        }
+
+        function resetAutoAdvance() {
+            if (autoAdvanceTimer) clearTimeout(autoAdvanceTimer);
+            autoAdvanceTimer = setTimeout(nextPage, 5000);
+        }
+
+        // Initial render
+        renderPage(currentPage, false);
+        resetAutoAdvance();
+    }
 });
 
 // Additional utility functions
