@@ -229,10 +229,10 @@ document.addEventListener('DOMContentLoaded', function() {
         document.body.classList.add('loaded');
         
         // Optional: Add typing effect to hero title
-        const heroTitle = document.querySelector('.hero-subtitle');
+        const heroTitle = document.querySelector('.hero-description');
         if (heroTitle) {
             const titleText = heroTitle.textContent;
-            typeWriter(heroTitle, titleText, 100);
+            typeWriter(heroTitle, titleText, 20);
         }
     });
 
